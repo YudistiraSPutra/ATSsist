@@ -9,14 +9,18 @@ Aplikasi Job Keyword Extractor adalah sebuah alat berbasis Python yang dirancang
 ## Fitur Utama
 
 - **Ekstraksi Kata Kunci:** Aplikasi ini menggunakan kombinasi model _Artificial Intelligence_ untuk mengekstrak kata kunci dari deskripsi pekerjaan yang diinput oleh pengguna dan menyediakan contoh deskripsi dari kata kunci yang digunakan.
+![Preview](images/Aplikasi1.png)
 - **Antarmuka Interaktif:** Dibangun menggunakan Streamlit, aplikasi ini menawarkan antarmuka yang ramah pengguna dan responsif, yang cocok untuk standar aplikasi mobile.
 - **Optimalisasi ATS:** Dengan menyesuaikan resume berdasarkan kata kunci yang diekstrak, pengguna dapat meningkatkan peluang mereka untuk lolos dari filter ATS dan mendapatkan perhatian dari perekrut.
 
 ## Cara Menggunakan
 
 1. **Input Deskripsi Pekerjaan:** Pengguna mengunggah deskripsi pekerjaan dalam format teks.
+![Preview](images/Aplikasi2.png) 
 2. **Ekstraksi Kata Kunci:** Aplikasi akan memproses deskripsi pekerjaan dan menampilkan kata kunci yang relevan.
+![Preview](images/Aplikasi3.png)
 3. **Penyesuaian Resume:** Pengguna dapat menggunakan kata kunci yang diekstrak untuk menyesuaikan resume mereka agar lebih selaras dengan deskripsi pekerjaan.
+![Preview](images/Aplikasi4.png)
 
 ## Teknologi yang Digunakan
 
