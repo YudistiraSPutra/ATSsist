@@ -1,5 +1,9 @@
 # Job Keyword Extractor
 
+## DISCLAIMER
+
+Aplikasi ini masih dalam pengembangan sebagai bagian dari kebutuhan Tugas Akhir
+
 ## Deskripsi
 
 Aplikasi Job Keyword Extractor adalah sebuah alat berbasis Python yang dirancang untuk membantu pencari kerja meningkatkan peluang mereka dalam melewati sistem pelacakan pelamar (Applicant Tracking System - ATS). Aplikasi ini menggunakan teknik ekstraksi kata kunci untuk menemukan kata kunci penting dari deskripsi pekerjaan dalam lowongan kerja, sehingga pengguna dapat menyesuaikan resume mereka dengan lebih baik.
